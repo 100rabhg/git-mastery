@@ -2,6 +2,10 @@
 
 A production-ready VitePress course website that teaches Git from beginner to advanced through real-world decision-making, workflow design, recovery techniques, GitHub collaboration, and hands-on labs.
 
+## Live site
+
+https://git-mastery-course.vercel.app
+
 ## Author
 
 Sourabh Patware
@@ -14,7 +18,7 @@ Sourabh Patware
 ## Scripts
 
 ```bash
-nvm use
+nvm use 24
 npm install
 npm run dev
 npm run build
@@ -23,7 +27,7 @@ npm run preview
 
 ## Requirements
 
-- Node.js 25 or newer
+- Node.js 24
 - npm 10 or newer recommended
 
 ## Project structure
