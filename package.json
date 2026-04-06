@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=25"
+    "node": ">=24"
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.17"
